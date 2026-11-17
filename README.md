@@ -1,5 +1,9 @@
 # github-forge-entry
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/shiyohei133/github-forge-entry/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/shiyohei133/github-forge-entry/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone, GitHub-compatible git forge in a single Node process, built from scratch
 on the Node standard library alone — no dependencies, no database, no `git` binary.
 
@@ -44,3 +48,7 @@ with) and answers `GET /healthz` as a boot probe. For local development,
 ## License
 
 MIT (see `LICENSE`).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d5a50dzy&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
